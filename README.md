@@ -11,7 +11,7 @@ I. General Information
 
 II. Description
 
-    The Openstack Plugin used for Huawei Server management.It can be used to manage Huawei Server by Redfish. 
+    The Openstack Plugin used for Huawei Server management.It can be used to manage Huawei Server by Redfish. 
 
 III.Supported Device
 
